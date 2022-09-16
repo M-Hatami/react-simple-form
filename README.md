@@ -7,7 +7,7 @@
 این طرح یک جزء ساخته شده توسط جاواسکریپت ری‌اکت برای فرم (برگه) اطلاعات کاربر به منظور پر کردن برگه و تسلیم و ارسال داده است. برگه اطلاعات کاربر معمولاً به صفحه‌ای گفته میشود که کاربر اطلاعاتی مانند اسم، اسم خانوادگی، نشانی رایانامه، شماره تماس و رمزعبور خود را به منظور ورود به سامانه یا ثبت نام در سامانه وارد و ارسال میکند. </p>
 
 <div>
-<img src="https://github.com/M-Hatami/react-shopping-cart-grocery/blob/master/public/sample.jpg?raw=true" alt="نمونه رابط کاربری"/>
+<img src="https://github.com/M-Hatami/react-simple-form/blob/master/public/sample.jpg?raw=true" alt="نمونه رابط کاربری"/>
 </div>
 <br/>
 <p>برای استفاده از یک ارائه زنده به <a href="https://react-simple-form-m.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
